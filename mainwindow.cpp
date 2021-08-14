@@ -79,8 +79,3 @@ void MainWindow::on_hide_action_triggered()
     this->hide();
 
 }
-
-
-
-
-
